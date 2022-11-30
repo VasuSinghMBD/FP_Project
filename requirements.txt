@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+yfinance
+streamlit
+datetime
+plotly
+pandas_datareader
+bs4
+requests
